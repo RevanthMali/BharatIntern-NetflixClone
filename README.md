@@ -1,1 +1,1 @@
-This Project is about creating a Netflix Home Page clone using HTML and CSS.
+This Project is about crafting the Home page of Netflix using HTML and CSS.
